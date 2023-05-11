@@ -1,0 +1,10 @@
+* binding-arrows
+
+An implementation of threading macros based on binding anonymous
+variables.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/phoe/binding-arrows.git |
+| commit  | d19364e                                        |
+| systems | binding-arrows                                 |
+|---------+------------------------------------------------|
