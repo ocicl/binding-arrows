@@ -5,6 +5,6 @@ variables.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/phoe/binding-arrows.git |
-| commit  | d19364e                                        |
+| commit  | 4857b2a                                        |
 | systems | binding-arrows                                 |
 |---------+------------------------------------------------|
